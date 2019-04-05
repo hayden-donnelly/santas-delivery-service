@@ -1,5 +1,3 @@
-
-
 DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE
                 Version 1, October 2013
 
