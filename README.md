@@ -1,7 +1,6 @@
 # Santa Delivery Service
 
-Driving game built in 72 hours for Ludem Dare.
-No art included
+Driving game built in 72 hours for Ludem Dare 40. No art included.
 
 ## Built With
 
