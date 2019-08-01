@@ -1,3 +1,9 @@
+Copyright (C) Hayden Donnelly, 2019
+
+This work is free.  You can redistribute it and/or modify it under the
+terms of the Do What The Fuck You Want To But It's Not My Fault Public
+License, Version 1, as published by Ben McGinnes:
+    
     DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE
                     Version 1, October 2013
 
