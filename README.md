@@ -1,18 +1,15 @@
-# Santa Delivery Service
+## About
 
-Driving game built in 72 hours for Ludem Dare 40. No art included.
-
-## Built With
-
-* [Unity](https://unity.com/) - Game Engine 
+Santa's Delivery Service is a physics based driving game built in 72 hours for Ludem Dare 40.
 
 ## Authors
 
-* **Hayden Donnelly** - *Initial work* - [Bizbud](https://github.com/Bizbud)
+* **Hayden Donnelly** - *Programmer*
+* **Peter Prickarz** - *Artist*
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Bizbud/The-Village-Sacrifice/graphs/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
