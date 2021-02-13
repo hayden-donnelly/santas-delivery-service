@@ -10,8 +10,6 @@ Santa's Delivery Service is a physics based driving game built in 72 hours for L
 * **Peter Prickarz** - *Artist*
 * **Eric Goetz** - *Composer*
 
-See also the list of [contributors](https://github.com/Bizbud/The-Village-Sacrifice/graphs/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
