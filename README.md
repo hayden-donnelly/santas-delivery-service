@@ -1,6 +1,6 @@
 ## About
 
-Santa's Delivery Service is a physics based driving game built in 72 hours for Ludem Dare 40. This repository contains the complete unity project (confirmed working on version 2017.4.1f1).
+Santa's Delivery Service is a physics based driving game built in 72 hours for Ludem Dare 40. This repository contains the complete unity project (last tested on version 2017.4.1f1).
 
 "Race to the finish and deliver as many presents as you can!"
 
