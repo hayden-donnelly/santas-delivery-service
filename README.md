@@ -10,10 +10,6 @@ Santa's Delivery Service is a physics based driving game built in 72 hours for L
 * **Peter Prickarz** - *Artist*
 * **Eric Goetz** - *Composer*
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Screenshots
 
 ![SDS1_c](https://user-images.githubusercontent.com/30982485/102729036-e66c9680-42fc-11eb-803e-3ecfb18a8f23.png)
